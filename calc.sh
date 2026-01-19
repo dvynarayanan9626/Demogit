@@ -1,11 +1,16 @@
 #Addition
 
-x= A+B
+x=A+B
 
 #Substraction
 
-y= A-B
+y=A-B
 
 #Multiplication
 
-z = A*B
+z=A*B
+
+#Division
+
+i=A/B
+
