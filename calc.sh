@@ -1,7 +1,11 @@
-#Addition:
+#Addition
 
 x= A+B
 
-#Substraction:
+#Substraction
 
-y=A-B
+y= A-B
+
+#Multiplication
+
+z = A*B
